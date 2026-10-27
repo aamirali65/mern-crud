@@ -1,4 +1,4 @@
-# M.E.R.N-CRUD
+# MERN CRUD
 
 A CRUD interface for user records, built as the front end of a MERN-style stack: a React and Vite app that talks to an Express/Mongo API over HTTP.
 
